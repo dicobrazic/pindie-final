@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://mybackend.nomoredomainswork.ru/api'
+export const BASE_URL = 'https://mybackend.nomorepartiesco.ru/api'
 
 
 export const endpoints = {
