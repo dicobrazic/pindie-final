@@ -1,1 +1,1 @@
-Мой бэкенд: https://mybackend.nomorepartiesco.ru/
+Мой Бэкенд: https://mybackend.nomorepartiesco.ru/
